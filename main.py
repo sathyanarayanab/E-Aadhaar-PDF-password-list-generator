@@ -41,9 +41,6 @@ def defaultendyear():
     print(f"\nInvalid end year, using default value {x.year}")
     return x.year
 
-
-
-
 def createwordlist(name,startyear,endyear):
     if name == 1:# If name is 1, which was given in formatname() use the deault wordlist
         try:
