@@ -20,11 +20,11 @@ This is a very lightweight and simple that helps to create the wordlist, once do
 
 >Clone this repository
 ```
-
+git clone https://github.com/sathyanarayanab/E-Aadhaar-PDF-password-list-generator.git
 ```
 > Head to the cloned directory
 ```
-
+cd E-Aadhaar-PDF-password-list-generator
 ```
 > Run the `main.py` file
 ```
